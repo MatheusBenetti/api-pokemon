@@ -4,7 +4,7 @@ import {
   getPokemonByName,
   listAllPokemon
   // eslint-disable-next-line import/extensions
-} from '../controller/pokemonController.js';
+} from '../controllers/pokemonController.js';
 
 const router = express.Router();
 
